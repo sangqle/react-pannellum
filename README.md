@@ -648,5 +648,3 @@ Returns `true` if active, else `false`.
 > Will be triggered when panorama is loaded
 
 ## License
-
-MIT © [hoaiduyit](https://github.com/hoaiduyit)
